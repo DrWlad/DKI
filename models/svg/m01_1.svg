@@ -1,0 +1,23 @@
+<svg id="m01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 213.04 31.33">
+  <style>
+
+    #sel_g {
+    fill: #5b6166;
+    }
+    #m01:Hover #sel_g {
+    fill: green;
+    }
+    #sel:Hover {
+    cursor: pointer;
+    }
+
+  </style>
+
+    <path id="sel_g" d="M19.33,5.51,0,31.33H182.7a13.76,13.76,0,0,0,11-5.51L213,0H30.34A13.76,13.76,0,0,0,19.33,5.51Z" style="opacity: 0.9"/>
+    <path id="line" d="M19.31,5.54,0,31.33H10.88A11.39,11.39,0,0,0,20,26.77L34.46,7.46A13.82,13.82,0,0,1,45.53,1.92H211.61L213,0H30.38A13.82,13.82,0,0,0,19.31,5.54Z" style="fill: #1a4da6;opacity: 0.8"/>
+    <g id="txt">
+        <text transform="translate(47.67 22.67)" style="font-size: 24px;fill: #fff;font-family: Calibri, Calibri">Все системы</text>
+    </g>
+    <rect id="sel" width="213.04" height="31.33" style="fill: #fff;opacity: 0"/>
+
+</svg>

@@ -1,0 +1,8 @@
+<svg id="art" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 584.04 31.33">
+  <g id="m12">
+    <path id="sel_g12" d="M19.33,5.51,0,31.33H553.7a13.76,13.76,0,0,0,11-5.51L584,0H30.34A13.76,13.76,0,0,0,19.33,5.51Z" style="fill: #5b6166;opacity: 0.9"/>
+    <text transform="translate(47.67 22.67)" style="font-size: 24px;fill: #fff;font-family: Calibri, Calibri">Система измерения параметров контактной сети</text>
+    <path id="line" d="M19.31,5.54,0,31.33H10.88A11.39,11.39,0,0,0,20,26.77L34.46,7.46A13.82,13.82,0,0,1,45.53,1.92H582.61L584,0H30.38A13.82,13.82,0,0,0,19.31,5.54Z" style="fill: #1a4da6;opacity: 0.8"/>
+    <rect id="sel12" width="584.04" height="31.33" style="fill: #fff;opacity: 0"/>
+  </g>
+</svg>

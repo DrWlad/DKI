@@ -1,0 +1,21 @@
+<svg id="art" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 348.04 31.33">
+  <style>
+
+    #sel_s {
+    fill: #344878;
+    }
+    #art:Hover #sel_s {
+    fill: green;
+    }
+    #art:Hover {
+    cursor: pointer;
+    }
+
+  </style>
+  <g id="sys">
+    <path id="sel_s" d="M19.33,5.51,0,31.33H317.7a13.76,13.76,0,0,0,11-5.51L348,0H30.34A13.76,13.76,0,0,0,19.33,5.51Z" style="opacity: 0.7"/>
+    <text transform="translate(47.67 22.67)" style="font-size: 24px;fill: #fff;font-family: Calibri, Calibri">Измерительные системы</text>
+    <path id="line" d="M19.31,5.54,0,31.33H10.88A11.39,11.39,0,0,0,20,26.77L34.46,7.46A13.82,13.82,0,0,1,45.53,1.92H346.61L348,0H30.38A13.82,13.82,0,0,0,19.31,5.54Z" style="fill: #1a4da6;opacity: 0.8"/>
+    <rect id="sel_sys" width="348.04" height="31.33" style="fill: #1a4da6;opacity: 0"/>
+  </g>
+</svg>
